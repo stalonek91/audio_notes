@@ -1,0 +1,4 @@
+*.ipynb
+.env
+*.mp3
+*.txt
